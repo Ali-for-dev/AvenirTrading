@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Communication",
+      "text": "Effective communication is the bridge between confusion and clarity."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Exporting Excellence",
+      "text": "At Avenir Trading, we specialize in delivering high-quality products across the globe. With a focus on efficiency and reliability, we ensure your goods are exported seamlessly, bringing the best of our local produce to international markets."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Together, We Grow",
+      "text": "At Avenir Trading, we believe in the strength of collaboration. Our group of dedicated professionals works hand-in-hand to deliver top-quality produce to global markets, fostering growth and success for all."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Transforming Possibilities",
+      "text": "we bring a touch of magic to the world of exports. With innovative solutions and a commitment to excellence, we turn every challenge into an opportunity for success, delivering our premium products worldwide."
     }
   ]
 }
